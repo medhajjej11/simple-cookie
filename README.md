@@ -2,7 +2,11 @@
 simple cookie serializer & parser for node.js
 
 [![NPM Version][npm-image]][npm-url]
+[![Dependency Status](https://david-dm.org/madarche/mcf-js.svg)](https://david-dm.org/juji/simple-cookie)
+[![devDependency Status](https://david-dm.org/madarche/mcf-js/dev-status.svg)](https://david-dm.org/juji/simple-cookie#info=devDependencies)
 [![Build Status][travis-image]][travis-url]
+
+
 
 ##install
 npm install simple-cookie
